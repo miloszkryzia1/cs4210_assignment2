@@ -3,7 +3,7 @@
 # FILENAME: knn.py
 # SPECIFICATION: this program finds the LOO-CV error rate for a 1NN classifier
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: TODO
+# TIME SPENT: 30 minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
