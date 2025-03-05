@@ -3,7 +3,7 @@
 # FILENAME: decision_tree_2.py
 # SPECIFICATION: This program creates decision trees using different test sets and compares their accuracy
 # FOR: CS 4210- Assignment #2
-# TIME SPENT:
+# TIME SPENT: 30 minutes
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
